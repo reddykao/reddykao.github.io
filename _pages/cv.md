@@ -1,12 +1,11 @@
 ---
 layout: archive
 title: "Welcome to my CV"
-permalink: https://reddykao.github.io/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
