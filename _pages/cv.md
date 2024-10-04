@@ -39,11 +39,11 @@ redirect_from:
 <div class="cv-section">
   <h2>Work experience</h2>
   <ul>
-    <li>Spring 2024: Academic Pages Collaborator
+    <li>Spring 2024: Research Assistant
       <ul>
-        <li>GitHub University</li>
+        <li>National Taiwan Univeristy Hospital (NTUH)</li>
         <li>Duties include: Updates and improvements to template</li>
-        <li>Supervisor: The Users</li>
+        <li>Supervisor: Dr</li>
       </ul>
     </li>
     <li>Fall 2015: Research Assistant
